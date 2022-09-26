@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This website is developed by Anil
+          This website is developed by Anil G.
         </a>
       </header>
     </div>
