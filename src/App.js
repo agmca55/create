@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React test
+          This website is developed by Anil
         </a>
       </header>
     </div>
