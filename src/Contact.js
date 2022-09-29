@@ -7,9 +7,10 @@ function Contact()
 return(
     <div>
     <Header></Header>
-    <h1>This is about page</h1>
+    <h1>This is Contact page</h1>
     <Footer></Footer>
     </div>
+
 
 );
 
